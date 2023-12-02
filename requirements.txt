@@ -1,0 +1,11 @@
+# pip install -r requirements.txt
+
+# Base ----------------------------------------
+numpy==1.21.6
+# Plotting ------------------------------------
+pandas>=1.1.4
+flask
+flask_cors
+csv
+openpyxl
+
